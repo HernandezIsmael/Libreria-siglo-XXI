@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LIBRERIA_SIGLO_XXIDataSet3" targetNamespace="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet3.xsd" xmlns:mstns="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet3.xsd" xmlns="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="LIBRERIA_SIGLO_XXIConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="LIBRERIA_SIGLO_XXIConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LIBRERIA_SIGLO_XXI.My.MySettings.GlobalReference.Default.LIBRERIA_SIGLO_XXIConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SOLICITAR_PRODUCTableAdapter" GeneratorDataComponentClassName="SOLICITAR_PRODUCTableAdapter" Name="SOLICITAR_PRODUC" UserDataComponentName="SOLICITAR_PRODUCTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="LIBRERIA_SIGLO_XXIConnectionString (MySettings)" DbObjectName="LIBRERIA_SIGLO_XXI.dbo.SOLICITAR_PRODUC" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NUM_EJEMPLARES, NOMBRE_LIBRO, AUTOR, GENERO, EDITORIAL, CAJERO FROM dbo.SOLICITAR_PRODUC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NUM_EJEMPLARES" DataSetColumn="NUM_EJEMPLARES" />
+              <Mapping SourceColumn="NOMBRE_LIBRO" DataSetColumn="NOMBRE_LIBRO" />
+              <Mapping SourceColumn="AUTOR" DataSetColumn="AUTOR" />
+              <Mapping SourceColumn="GENERO" DataSetColumn="GENERO" />
+              <Mapping SourceColumn="EDITORIAL" DataSetColumn="EDITORIAL" />
+              <Mapping SourceColumn="CAJERO" DataSetColumn="CAJERO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LIBRERIA_SIGLO_XXIDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="LIBRERIA_SIGLO_XXIDataSet3" msprop:Generator_UserDSName="LIBRERIA_SIGLO_XXIDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SOLICITAR_PRODUC" msprop:Generator_TableClassName="SOLICITAR_PRODUCDataTable" msprop:Generator_TableVarName="tableSOLICITAR_PRODUC" msprop:Generator_TablePropName="SOLICITAR_PRODUC" msprop:Generator_RowDeletingName="SOLICITAR_PRODUCRowDeleting" msprop:Generator_RowChangingName="SOLICITAR_PRODUCRowChanging" msprop:Generator_RowEvHandlerName="SOLICITAR_PRODUCRowChangeEventHandler" msprop:Generator_RowDeletedName="SOLICITAR_PRODUCRowDeleted" msprop:Generator_UserTableName="SOLICITAR_PRODUC" msprop:Generator_RowChangedName="SOLICITAR_PRODUCRowChanged" msprop:Generator_RowEvArgName="SOLICITAR_PRODUCRowChangeEvent" msprop:Generator_RowClassName="SOLICITAR_PRODUCRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NUM_EJEMPLARES" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNUM_EJEMPLARES" msprop:Generator_ColumnPropNameInRow="NUM_EJEMPLARES" msprop:Generator_ColumnPropNameInTable="NUM_EJEMPLARESColumn" msprop:Generator_UserColumnName="NUM_EJEMPLARES" type="xs:int" minOccurs="0" />
+              <xs:element name="NOMBRE_LIBRO" msprop:Generator_ColumnVarNameInTable="columnNOMBRE_LIBRO" msprop:Generator_ColumnPropNameInRow="NOMBRE_LIBRO" msprop:Generator_ColumnPropNameInTable="NOMBRE_LIBROColumn" msprop:Generator_UserColumnName="NOMBRE_LIBRO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AUTOR" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAUTOR" msprop:Generator_ColumnPropNameInRow="AUTOR" msprop:Generator_ColumnPropNameInTable="AUTORColumn" msprop:Generator_UserColumnName="AUTOR" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="112" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GENERO" msprop:Generator_ColumnVarNameInTable="columnGENERO" msprop:Generator_ColumnPropNameInRow="GENERO" msprop:Generator_ColumnPropNameInTable="GENEROColumn" msprop:Generator_UserColumnName="GENERO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EDITORIAL" msprop:Generator_ColumnVarNameInTable="columnEDITORIAL" msprop:Generator_ColumnPropNameInRow="EDITORIAL" msprop:Generator_ColumnPropNameInTable="EDITORIALColumn" msprop:Generator_UserColumnName="EDITORIAL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CAJERO" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCAJERO" msprop:Generator_ColumnPropNameInRow="CAJERO" msprop:Generator_ColumnPropNameInTable="CAJEROColumn" msprop:Generator_UserColumnName="CAJERO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="77" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LIBRERIA_SIGLO_XXIDataSet" targetNamespace="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet.xsd" xmlns:mstns="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet.xsd" xmlns="http://tempuri.org/LIBRERIA_SIGLO_XXIDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="LIBRERIA_SIGLO_XXIConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="LIBRERIA_SIGLO_XXIConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LIBRERIA_SIGLO_XXI.My.MySettings.GlobalReference.Default.LIBRERIA_SIGLO_XXIConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="productosTableAdapter" GeneratorDataComponentClassName="productosTableAdapter" Name="productos" UserDataComponentName="productosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="LIBRERIA_SIGLO_XXIConnectionString (MySettings)" DbObjectName="LIBRERIA_SIGLO_XXI.dbo.productos" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NOMBRE_LIBRO, autor, GENERO, EDITORIAL, AÑO_EDICION, PRECIO_UNIT, EXISTENCIA FROM dbo.productos</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NOMBRE_LIBRO" DataSetColumn="NOMBRE_LIBRO" />
+              <Mapping SourceColumn="autor" DataSetColumn="autor" />
+              <Mapping SourceColumn="GENERO" DataSetColumn="GENERO" />
+              <Mapping SourceColumn="EDITORIAL" DataSetColumn="EDITORIAL" />
+              <Mapping SourceColumn="AÑO_EDICION" DataSetColumn="AÑO_EDICION" />
+              <Mapping SourceColumn="PRECIO_UNIT" DataSetColumn="PRECIO_UNIT" />
+              <Mapping SourceColumn="EXISTENCIA" DataSetColumn="EXISTENCIA" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LIBRERIA_SIGLO_XXIDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="LIBRERIA_SIGLO_XXIDataSet" msprop:Generator_UserDSName="LIBRERIA_SIGLO_XXIDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="productos" msprop:Generator_TableClassName="productosDataTable" msprop:Generator_TableVarName="tableproductos" msprop:Generator_TablePropName="productos" msprop:Generator_RowDeletingName="productosRowDeleting" msprop:Generator_RowChangingName="productosRowChanging" msprop:Generator_RowEvHandlerName="productosRowChangeEventHandler" msprop:Generator_RowDeletedName="productosRowDeleted" msprop:Generator_UserTableName="productos" msprop:Generator_RowChangedName="productosRowChanged" msprop:Generator_RowEvArgName="productosRowChangeEvent" msprop:Generator_RowClassName="productosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NOMBRE_LIBRO" msprop:Generator_ColumnVarNameInTable="columnNOMBRE_LIBRO" msprop:Generator_ColumnPropNameInRow="NOMBRE_LIBRO" msprop:Generator_ColumnPropNameInTable="NOMBRE_LIBROColumn" msprop:Generator_UserColumnName="NOMBRE_LIBRO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="autor" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnautor" msprop:Generator_ColumnPropNameInRow="autor" msprop:Generator_ColumnPropNameInTable="autorColumn" msprop:Generator_UserColumnName="autor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="112" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GENERO" msprop:Generator_ColumnVarNameInTable="columnGENERO" msprop:Generator_ColumnPropNameInRow="GENERO" msprop:Generator_ColumnPropNameInTable="GENEROColumn" msprop:Generator_UserColumnName="GENERO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EDITORIAL" msprop:Generator_ColumnVarNameInTable="columnEDITORIAL" msprop:Generator_ColumnPropNameInRow="EDITORIAL" msprop:Generator_ColumnPropNameInTable="EDITORIALColumn" msprop:Generator_UserColumnName="EDITORIAL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AÑO_EDICION" msprop:Generator_ColumnVarNameInTable="columnAÑO_EDICION" msprop:Generator_ColumnPropNameInRow="AÑO_EDICION" msprop:Generator_ColumnPropNameInTable="AÑO_EDICIONColumn" msprop:Generator_UserColumnName="AÑO_EDICION" type="xs:dateTime" />
+              <xs:element name="PRECIO_UNIT" msprop:Generator_ColumnVarNameInTable="columnPRECIO_UNIT" msprop:Generator_ColumnPropNameInRow="PRECIO_UNIT" msprop:Generator_ColumnPropNameInTable="PRECIO_UNITColumn" msprop:Generator_UserColumnName="PRECIO_UNIT" type="xs:int" />
+              <xs:element name="EXISTENCIA" msprop:Generator_ColumnVarNameInTable="columnEXISTENCIA" msprop:Generator_ColumnPropNameInRow="EXISTENCIA" msprop:Generator_ColumnPropNameInTable="EXISTENCIAColumn" msprop:Generator_UserColumnName="EXISTENCIA" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

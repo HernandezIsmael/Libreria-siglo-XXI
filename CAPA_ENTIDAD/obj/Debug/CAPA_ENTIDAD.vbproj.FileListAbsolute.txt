@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.Resources.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.dll
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.Resources.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.vbproj.GenerateResource.Cache
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.dll
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb

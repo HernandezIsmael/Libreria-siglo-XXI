@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LIBRERIASIGLOXXI
+</name>
+</assembly>
+<members>
+<member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1.ventasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1.ventasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1.ventasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.ventasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.UpdateAll(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3.SOLICITAR_PRODUCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3.SOLICITAR_PRODUCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3.SOLICITAR_PRODUCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.SOLICITAR_PRODUCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.UpdateAll(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:LIBRERIA_SIGLO_XXI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:LIBRERIA_SIGLO_XXI.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:LIBRERIA_SIGLO_XXI.My.Resources.Resources._1549350_637026819710941_344422953_n">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LIBRERIA_SIGLO_XXI.My.Resources.Resources.logo1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LIBRERIA_SIGLO_XXI.My.Resources.Resources.logo2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet.productosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet.productosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet.productosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.productosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.UpdateAll(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2.clientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2.clientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2.clientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.clientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.UpdateAll(LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LIBRERIA_SIGLO_XXI.LIBRERIA_SIGLO_XXIDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

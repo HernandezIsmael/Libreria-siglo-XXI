@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF983179-292C-404E-84C7-6AAEF7472D4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LIBRERIA_SIGLO_XXI.FrmVentas</StartupObject>
+    <RootNamespace>LIBRERIA_SIGLO_XXI</RootNamespace>
+    <AssemblyName>LIBRERIA SIGLO XXI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LIBRERIA SIGLO XXI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LIBRERIA SIGLO XXI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acerca De.Designer.vb">
+      <DependentUpon>Acerca De.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Acerca De.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AUTORES.Designer.vb">
+      <DependentUpon>AUTORES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AUTORES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biblioteca Siglo XXI--Iniciar Sesión.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biblioteca Siglo XXI--Iniciar Sesión.Designer.vb">
+      <DependentUpon>Biblioteca Siglo XXI--Iniciar Sesión.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Biblioteca Siglo XXI--Sistema de Ventas e Inventario.Designer.vb">
+      <DependentUpon>Biblioteca Siglo XXI--Sistema de Ventas e Inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Biblioteca Siglo XXI--Sistema de Ventas e Inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cartera de clientes.Designer.vb">
+      <DependentUpon>Cartera de clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cartera de clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULT CANCELACIONES.Designer.vb">
+      <DependentUpon>CONSULT CANCELACIONES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULT CANCELACIONES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta de Inventarios.Designer.vb">
+      <DependentUpon>Consulta de Inventarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta de Inventarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta entradas a almacen.Designer.vb">
+      <DependentUpon>Consulta entradas a almacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta entradas a almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devoluciones de libros.Designer.vb">
+      <DependentUpon>devoluciones de libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="devoluciones de libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta del cliente.Designer.vb">
+      <DependentUpon>Consulta del cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta del cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form.Designer.vb">
+      <DependentUpon>Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresar Editoriales.Designer.vb">
+      <DependentUpon>Ingresar Editoriales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresar Editoriales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos de Libros.Designer.vb">
+      <DependentUpon>Ingresos de Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos de Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingreso_paises.Designer.vb">
+      <DependentUpon>ingreso_paises.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingreso_paises.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIBRERIA_SIGLO_XXIDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LIBRERIA_SIGLO_XXIDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LIBRERIA_SIGLO_XXIDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LIBRERIA_SIGLO_XXIDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares de Origen.Designer.vb">
+      <DependentUpon>Lugares de Origen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Lugares de Origen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OPERACIONES.vb" />
+    <Compile Include="puestos.Designer.vb">
+      <DependentUpon>puestos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="puestos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporte inventario.Designer.vb">
+      <DependentUpon>reporte inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reporte inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte_de_Ventas.Designer.vb">
+      <DependentUpon>Reporte_de_Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_de_Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="solicitar compras.Designer.vb">
+      <DependentUpon>solicitar compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="solicitar compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USUARIOS.Designer.vb">
+      <DependentUpon>USUARIOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTAS.Designer.vb">
+      <DependentUpon>VENTAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VENTAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Acerca De.resx">
+      <DependentUpon>Acerca De.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AUTORES.resx">
+      <DependentUpon>AUTORES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biblioteca Siglo XXI--Iniciar Sesión.resx">
+      <DependentUpon>Biblioteca Siglo XXI--Iniciar Sesión.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biblioteca Siglo XXI--Sistema de Ventas e Inventario.resx">
+      <DependentUpon>Biblioteca Siglo XXI--Sistema de Ventas e Inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cartera de clientes.resx">
+      <DependentUpon>Cartera de clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULT CANCELACIONES.resx">
+      <DependentUpon>CONSULT CANCELACIONES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta de Inventarios.resx">
+      <DependentUpon>Consulta de Inventarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta entradas a almacen.resx">
+      <DependentUpon>Consulta entradas a almacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devoluciones de libros.resx">
+      <DependentUpon>devoluciones de libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta del cliente.resx">
+      <DependentUpon>Consulta del cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form.resx">
+      <DependentUpon>Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresar Editoriales.resx">
+      <DependentUpon>Ingresar Editoriales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos de Libros.resx">
+      <DependentUpon>Ingresos de Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingreso_paises.resx">
+      <DependentUpon>ingreso_paises.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugares de Origen.resx">
+      <DependentUpon>Lugares de Origen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="puestos.resx">
+      <DependentUpon>puestos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_SOLICITAR PRODUCTOS.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="reporte inventario.resx">
+      <DependentUpon>reporte inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_de_Ventas.resx">
+      <DependentUpon>Reporte_de_Ventas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_inventario.rdlc" />
+    <EmbeddedResource Include="Report_venta.rdlc" />
+    <EmbeddedResource Include="solicitar compras.resx">
+      <DependentUpon>solicitar compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USUARIOS.resx">
+      <DependentUpon>USUARIOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTAS.resx">
+      <DependentUpon>VENTAS.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="LIBRERIA_SIGLO_XXIDataSet.xsc">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LIBRERIA_SIGLO_XXIDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet.xss">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet1.xsc">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LIBRERIA_SIGLO_XXIDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet1.xss">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet2.xsc">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LIBRERIA_SIGLO_XXIDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet2.xss">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet3.xsc">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LIBRERIA_SIGLO_XXIDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LIBRERIA_SIGLO_XXIDataSet3.xss">
+      <DependentUpon>LIBRERIA_SIGLO_XXIDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1549350_637026819710941_344422953_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CAPA_ACCESO_DE_DATOS\CAPA_ACCESO_DE_DATOS.vbproj">
+      <Project>{91b52b4c-0d14-4023-9852-2a02135a86d6}</Project>
+      <Name>CAPA_ACCESO_DE_DATOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CAPA_ENTIDAD\CAPA_ENTIDAD.vbproj">
+      <Project>{c457146c-86a0-4ad6-8fa6-6dd902fc6015}</Project>
+      <Name>CAPA_ENTIDAD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,139 @@
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmIngresar.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Resources.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbproj.GenerateResource.Cache
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmPrincipal.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmClientes.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmArticulo.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmCartera_de_clientes.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmEstado_de_cuenta_del_cliente.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmLista_de_precios.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmReporte_lista_de_precios.resources
+C:\Users\Vite\AppData\Local\Temporary Projects\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmRegistroUsuarios.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmRegistroUsuarios.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmArticulo.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmIngresar.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmPrincipal.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmCartera_de_clientes.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmClientes.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsultaInventarios.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmEstado_de_cuenta_del_cliente.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmLista_de_precios.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Resources.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmReporte_lista_de_precios.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbproj.GenerateResource.Cache
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmReporte_de_Inventario.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmReporte_de_Inventario_con_Costos.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmEntrada_a_almacen.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsulta_entradas_a_almacen.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsulta_general_de_entradas_a_Librería.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmDevoluciones_a_fábrica.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsulta_devoluciones_a_fábrica.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmVentas.resources
+C:\Users\Vite\Documents\Visual Studio 2012\Projects\DESARROLLO DE APLICACIONES I\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmAcerca_De.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmAcerca_De.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmIngresar.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmPrincipal.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmCartera_de_clientes.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmClientes.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsultaInventarios.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsulta_entradas_a_almacen.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmEstado_de_cuenta_del_cliente.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Resources.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmReporte_de_Inventario_con_Costos.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmVentas.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.AUTORES.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Ingresar_Editoriales.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Ingresos_de_Libros.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.USUARIOS.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.devoluciones_de_libros.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.solicitar_compras.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.CONSULT_CANCELACIONES.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.dll
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.pdb
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Lugares_de_Origen.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.ingreso_paises.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.puestos.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.REPORTE_INVENTARIO.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\RdlCompile.cache
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Reporte_de_Ventas.resources
+C:\Users\Public\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.REPORTE_CLIENTS.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.dll
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ACCESO_DE_DATOS.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\CAPA_ENTIDAD.xml
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbprojResolveAssemblyReference.cache
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmAcerca_De.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.AUTORES.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmIngresar.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmPrincipal.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmCartera_de_clientes.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmClientes.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.CONSULT_CANCELACIONES.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsultaInventarios.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmConsulta_entradas_a_almacen.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.devoluciones_de_libros.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmEstado_de_cuenta_del_cliente.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.REPORTE_CLIENTS.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Ingresar_Editoriales.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Ingresos_de_Libros.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.ingreso_paises.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Lugares_de_Origen.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Resources.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.puestos.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.reporte_inventario.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.Reporte_de_Ventas.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.solicitar_compras.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.USUARIOS.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA_SIGLO_XXI.FrmVentas.resources
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.vbproj.GenerateResource.Cache
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\RdlCompile.cache
+C:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\RdlCompile.compiled
+G:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+G:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+G:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+G:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+F:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+F:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+F:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+F:\Users\ismael\Desktop\isma\TODO\HJDSGF\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
+C:\Users\Isma\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\bin\Debug\LIBRERIA SIGLO XXI.exe.config
+C:\Users\Isma\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.exe
+C:\Users\Isma\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.xml
+C:\Users\Isma\Documents\LIBRERIA SIGLO XXI\LIBRERIA SIGLO XXI\obj\Debug\LIBRERIA SIGLO XXI.pdb
